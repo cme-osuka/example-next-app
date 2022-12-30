@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sky-blue",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "mint-green",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "light-purple",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "peach",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "light-pink",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "light-yellow",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "light-grey",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "Alcro-PiriPiri",
+    "hex": "#d54e38"
+  },
+  {
+    "name": "prpl-purple",
+    "hex": "#04052E"
+  }
+]
